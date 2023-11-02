@@ -2,24 +2,15 @@
 
 Welcome to Dark Mode, an initiative by BYU IT&CSA to introduce essential topics that are necessary to do cool things. We are planning on covering the following topics (order subject to change):
 
-## Fall 2022 Semester
+## Fall 2023 Semester
 
-1. Source Control (GitHub) - September 21, 2022
-2. Linux - Oct. 5, 2022
-3. VSCode - Oct. 19, 2022
-4. Raspberry Pi - Nov. 2, 2022
-5. Troubleshooting - Nov. 16, 2022
-6. Virtualization - Nov. 30, 2022
+1. Embedded Systems and Home Automation by Zach Thompson - October 25th, 2023
+2. How to Build a Computer by Jarom Emms - November 8th, 2023
+3. Carson Cubbuck - November 29th, 2023
 
-## Winter 2023 Semester
+## Winter 2024 Semester
 
-7. January 18, 2023
-8. February 1, 2023
-9. February 15, 2023
-10. March 1, 2023
-11. March 15, 2023
-12. March 29, 2023
-13. May 12, 2023
+1. TBD
 
 Most of these topics are not covered well in class until much later in the program (if they are covered at all).
 
